@@ -39,6 +39,8 @@ Proyek ini bertujuan untuk menganalisis data transaksi pelanggan supermarket gun
 - Gunakan kampanye visual & emosional yang menarik.
 - Personalisasi penawaran produk berdasarkan preferensi dan perilaku pelanggan.
 
+- https://public.tableau.com/app/profile/muhammad.afrian.kusumawardana/vizzes
+
 ### 🚚 Strategi Distribusi
 - Hindari promosi massal untuk produk margin tinggi.
 - Gunakan **distribution channel eksklusif**, seperti katalog personal, layanan konsultasi produk, atau penjualan langsung yang disesuaikan dengan segmen pelanggan.
